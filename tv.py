@@ -8,15 +8,7 @@ BASE_URL = "https://thetvapp.to"
 CHANNEL_LIST_URL = f"{BASE_URL}/tv"
 
 SECTIONS_TO_APPEND = {
-    "/nba": "NBA",
-    "/mlb": "MLB",
-    "/wnba": "WNBA",
-    "/nfl": "NFL",
-    "/ncaaf": "NCAAF",
-    "/ncaab": "NCAAB",
-    "/soccer": "Soccer",
-    "/ppv": "PPV",
-    "/events": "Events"
+    "/": ""
 }
 
 def extract_real_m3u8(url: str):
@@ -170,7 +162,7 @@ def append_new_streams(lines, new_urls_with_groups):
                 lines[existing[key]] = url
         else:
             if group == "MLB":
-                lines.append(f'#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="{title}" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB",{title}')
+                lines.append(f'#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="{title}" tvg-logo="" group-title="MLB",{title}')
             else:
                 lines.append(f'#EXTINF:-1 group-title="{group}",{title}')
             lines.append(url)
