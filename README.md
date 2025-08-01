@@ -18,9 +18,9 @@ You can edit the script however you want.
  <a href=""><img src="https://raw.githubusercontent.com/dishlive24/SamsungTVPlus-Hls-Fetcher/refs/heads/main/images/player.png"></a>
 </h1>
 
-# 🚬Credits
+# 🚬 Credits
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=FF2C10&background=31FF9400&width=400&lines=Made+By+Free+Dish+Bhai)](https://git.io/typing-svg)
 
 
-# 💌Note
+# 💌 Note
 * The following code is for educational purposes only. It demonstrates how to authenticate and stream IPTV. Do not use it for any illegal or harmful activities. If the code affects the revenue of the IPTV owners, please let me  and I will delete it.
