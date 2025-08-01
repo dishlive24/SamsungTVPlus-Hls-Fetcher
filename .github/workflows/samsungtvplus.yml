@@ -2,8 +2,8 @@ name: SamsungTVPlus Auto Playlist
 
 on:
   schedule:
-    - cron: '30 4 */7 * *'  # Every 7th day at 10:00 AM IST (which is 4:30 UTC)
-  workflow_dispatch:  # Allow manual trigger
+    - cron: '30 4 */7 * *'  # Every 7 days at 10:00 AM IST
+  workflow_dispatch:
 
 jobs:
   build:
@@ -24,15 +24,14 @@ jobs:
         pip install requests
 
     - name: Run SamsungTVPlus Script
-      run: |
-        python samsungtvplus.py
+      run: python samsungtvplus.py
 
     - name: Commit and Push Playlist
       run: |
         git config user.name "GitHub Actions"
         git config user.email "actions@github.com"
-        git add samsungtvplus/*.m3u
-        git commit -m "🔄 Auto-update SamsungTVPlus playlist"
+        git add samsungtvplus_*.m3u
+        git commit -m "🔄 Auto-update SamsungTVPlus root playlists"
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
