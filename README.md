@@ -1,1 +1,1 @@
-###Generates M3U playlists for SamsungTVPlus###
+##Generates M3U playlists for SamsungTVPlus##
