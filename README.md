@@ -1,3 +1,5 @@
+# 🧑‍💻  Py Script Is Public, You Can Edit It As You Like. Do Whatever You Want, As Your Wish. 
+
 # 🎬How To Play
 
 **📱Android**
