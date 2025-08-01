@@ -1,7 +1,23 @@
+# 🎬How To Play
 
-## ▶️ Disclaimer
+**📱Android**
 
-*   This repository merely aggregates publicly available channel information and stream URLs from the upstream sources mentioned.
-*   The availability, legality, and stability of the streams themselves depend entirely on the original service providers and the upstream data sources. Streams may stop working, change format, or be removed without notice.
-*   Ensure your use of these streams complies with the terms of service of the respective platforms and any applicable laws in your region.
-*   The EPG data is also provided by the upstream sources and its accuracy is not guaranteed.
+ **Use NS Player**
+[Download](https://play.google.com/store/apps/details?id=com.genuine.leone)
+
+**Add PlayList URL In IPTV Player & Watch Your Favourite Channels** 
+
+<h1 align="center">
+ <a href=""><img src="https://raw.githubusercontent.com/dishlive24/TVChannnels-Hls-Fetcher/refs/heads/main/images/ns.png"></a>
+</h1>
+
+<h1 align="center">
+ <a href=""><img src="https://raw.githubusercontent.com/dishlive24/TVChannnels-Hls-Fetcher/refs/heads/main/images/nsplayer.png"></a>
+</h1>
+
+# 🚬Credits
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=FF2C10&background=31FF9400&width=400&lines=Made+By+Free+Dish+Bhai)](https://git.io/typing-svg)
+
+
+# 💌Note
+* The following code is for educational purposes only. It demonstrates how to authenticate and stream IPTV. Do not use it for any illegal or harmful activities. If the code affects the revenue of the IPTV owners, please let me  and I will delete it.
