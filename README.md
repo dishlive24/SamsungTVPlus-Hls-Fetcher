@@ -1,6 +1,5 @@
 # 🧑‍💻 Notice 
-Py script is public 
-you can edit it as you like. do whatever you want, as your wish. 
+py script is public, you can edit it as you like. do whatever you want, as your wish. 
 
 # 🎬How To Play
 
