@@ -1,5 +1,5 @@
 # 🧑‍💻 Notice 
-py script is public, you can edit it as you like. do whatever you want, as your wish. 
+You can edit the script however you want.
 
 # 🎬How To Play
 
