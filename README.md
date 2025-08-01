@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href=""><img src="https://en.m.wikipedia.org/wiki/Samsung_TV_Plus#/media/File:Samsung_TV_Plus_logo.png" alt="🔥 Samsung TV Plus🔥" width="250"></a>
+  <a href=""><img src="" alt="" width="250"></a>
   <br>
   🔥 Samsung TV Plus Playlist 🔥
   <br>
