@@ -5,12 +5,11 @@ import os
 import logging
 from io import BytesIO
 
-OUTPUT_DIR = ""
 USER_AGENT = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36'
 SAMSUNG_URL = 'https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/SamsungTVPlus/.channels.json.gz'
 STREAM_URL_TEMPLATE = 'https://jmp2.uk/sam-{id}.m3u8'
 EPG_URL_TEMPLATE = 'https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/{region}.xml.gz'
-REGIONS = ['us', 'in', 'all']
+REGIONS = ['us', 'ca', 'gb', 'au', 'de', 'all']
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
@@ -38,10 +37,9 @@ def format_extinf(channel_id, tvg_id, tvg_chno, tvg_name, group_title, display_n
             f'tvg-logo="" group-title="{group_title}",{display_name}\n')
 
 def write_m3u_file(filename, content):
-    if not os.path.exists(OUTPUT_DIR):
-        os.makedirs(OUTPUT_DIR)
-    with open(os.path.join(OUTPUT_DIR, filename), 'w', encoding='utf-8') as f:
+    with open(filename, 'w', encoding='utf-8') as f:
         f.write(content)
+    logging.info(f"✅ Saved: {filename}")
 
 def generate_samsungtvplus_m3u():
     data = fetch_url(SAMSUNG_URL, is_json=True, is_gzipped=True)
@@ -80,7 +78,6 @@ def generate_samsungtvplus_m3u():
             lines.append(stream + '\n')
 
         write_m3u_file(f"samsungtvplus_{region}.m3u", ''.join(lines))
-        logging.info(f"✅ Done: samsungtvplus_{region}.m3u")
 
 if __name__ == "__main__":
     generate_samsungtvplus_m3u()
