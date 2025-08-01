@@ -2,7 +2,7 @@
   <br>
   <a href=""><img src="https://raw.githubusercontent.com/dishlive24/SamsungTVPlus-Hls-Fetcher/refs/heads/main/images/samsung.jpg" alt="" width="250"></a>
   <br>
-  🔥 Samsung TV Playlist 🔥
+  🔥Samsung TV Playlist🔥
   <br>
 </h1>
 
