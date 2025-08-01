@@ -9,7 +9,7 @@ OUTPUT_DIR = "samsungtvplus"
 USER_AGENT = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36'
 SAMSUNG_URL = 'https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/SamsungTVPlus/.channels.json.gz'
 STREAM_URL_TEMPLATE = 'https://jmp2.uk/sam-{id}.m3u8'
-REGIONS = ['us', 'ca', 'gb', 'au', 'de', 'all']
+REGIONS = ['all']
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
