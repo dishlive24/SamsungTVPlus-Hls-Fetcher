@@ -1,6 +1,6 @@
-# 🧑‍💻 Notice For Devlopers
-Py Script Is Public 
-You Can Edit It As You Like. Do Whatever You Want, As Your Wish. 
+# 🧑‍💻 Notice 
+Py script is public 
+you can edit it as you like. do whatever you want, as your wish. 
 
 # 🎬How To Play
 
