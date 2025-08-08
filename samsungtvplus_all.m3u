@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml.gz"
 #EXTINF:-1 channel-id="GB3700007OZ-gb" tvg-id="GB3700007OZ" tvg-chno="4245" tvg-name="&TV" tvg-logo="" group-title="United Kingdom",&TV
 https://jmp2.uk/sam-GB3700007OZ.m3u8
-#EXTINF:-1 channel-id="FR13000020W-fr" tvg-id="FR13000020W" tvg-chno="4871" tvg-name="100% Cinema" tvg-logo="" group-title="France",100% Cinema
+#EXTINF:-1 channel-id="FR13000020W-fr" tvg-id="FR13000020W" tvg-chno="4001" tvg-name="100% Cinema" tvg-logo="" group-title="France",100% Cinema
 https://jmp2.uk/sam-FR13000020W.m3u8
 #EXTINF:-1 channel-id="FRBD39000064E-fr" tvg-id="FRBD39000064E" tvg-chno="4413" tvg-name="100% Docs" tvg-logo="" group-title="France",100% Docs
 https://jmp2.uk/sam-FRBD39000064E.m3u8
@@ -89,13 +89,13 @@ https://jmp2.uk/sam-GBBC900015D3.m3u8
 https://jmp2.uk/sam-ITBC400005TF.m3u8
 #EXTINF:-1 channel-id="FR1100002RF-fr" tvg-id="FR1100002RF" tvg-chno="4632" tvg-name="AFTER FOOT TV" tvg-logo="" group-title="France",AFTER FOOT TV
 https://jmp2.uk/sam-FR1100002RF.m3u8
-#EXTINF:-1 channel-id="FR600001I2-fr" tvg-id="FR600001I2" tvg-chno="4003" tvg-name="Ailleurs - Destination Luxe" tvg-logo="" group-title="France",Ailleurs - Destination Luxe
+#EXTINF:-1 channel-id="FR600001I2-fr" tvg-id="FR600001I2" tvg-chno="4531" tvg-name="Ailleurs - Destination Luxe" tvg-logo="" group-title="France",Ailleurs - Destination Luxe
 https://jmp2.uk/sam-FR600001I2.m3u8
-#EXTINF:-1 channel-id="AT300009BI-at" tvg-id="AT300009BI" tvg-chno="4001" tvg-name="Alarm für Cobra 11 / Balko" tvg-logo="" group-title="Austria",Alarm für Cobra 11 / Balko
+#EXTINF:-1 channel-id="AT300009BI-at" tvg-id="AT300009BI" tvg-chno="4292" tvg-name="Alarm für Cobra 11 / Balko" tvg-logo="" group-title="Austria",Alarm für Cobra 11 / Balko
 https://jmp2.uk/sam-AT300009BI.m3u8
-#EXTINF:-1 channel-id="CH300006UT-ch" tvg-id="CH300006UT" tvg-chno="4001" tvg-name="Alarm für Cobra 11 / Balko" tvg-logo="" group-title="Switzerland",Alarm für Cobra 11 / Balko
+#EXTINF:-1 channel-id="CH300006UT-ch" tvg-id="CH300006UT" tvg-chno="4292" tvg-name="Alarm für Cobra 11 / Balko" tvg-logo="" group-title="Switzerland",Alarm für Cobra 11 / Balko
 https://jmp2.uk/sam-CH300006UT.m3u8
-#EXTINF:-1 channel-id="DE300020D3-de" tvg-id="DE300020D3" tvg-chno="4001" tvg-name="Alarm für Cobra 11 / Balko" tvg-logo="" group-title="Germany",Alarm für Cobra 11 / Balko
+#EXTINF:-1 channel-id="DE300020D3-de" tvg-id="DE300020D3" tvg-chno="4292" tvg-name="Alarm für Cobra 11 / Balko" tvg-logo="" group-title="Germany",Alarm für Cobra 11 / Balko
 https://jmp2.uk/sam-DE300020D3.m3u8
 #EXTINF:-1 channel-id="CHBA3300016BA-ch" tvg-id="CHBA3300016BA" tvg-chno="4884" tvg-name="Alberto Sordi & Co" tvg-logo="" group-title="Switzerland",Alberto Sordi & Co
 https://jmp2.uk/sam-CHBA3300016BA.m3u8
@@ -259,11 +259,11 @@ https://jmp2.uk/sam-USBD3300012VX.m3u8
 https://jmp2.uk/sam-ATBD2600008HN.m3u8
 #EXTINF:-1 channel-id="CABA3700002ML-ca" tvg-id="CABA3700002ML" tvg-chno="1590" tvg-name="Baywatch" tvg-logo="" group-title="Canada",Baywatch
 https://jmp2.uk/sam-CABA3700002ML.m3u8
-#EXTINF:-1 channel-id="CHBD2600009ZC-ch" tvg-id="CHBD2600009ZC" tvg-chno="4231" tvg-name="Baywatch" tvg-logo="" group-title="Switzerland",Baywatch
+#EXTINF:-1 channel-id="CHBD2600009ZC-ch" tvg-id="CHBD2600009ZC" tvg-chno="4003" tvg-name="Baywatch" tvg-logo="" group-title="Switzerland",Baywatch
 https://jmp2.uk/sam-CHBD2600009ZC.m3u8
 #EXTINF:-1 channel-id="DEBD26000020X-de" tvg-id="DEBD26000020X" tvg-chno="4231" tvg-name="Baywatch" tvg-logo="" group-title="Germany",Baywatch
 https://jmp2.uk/sam-DEBD26000020X.m3u8
-#EXTINF:-1 channel-id="GBBD600002XT-gb" tvg-id="GBBD600002XT" tvg-chno="4002" tvg-name="Baywatch" tvg-logo="" group-title="United Kingdom",Baywatch
+#EXTINF:-1 channel-id="GBBD600002XT-gb" tvg-id="GBBD600002XT" tvg-chno="4003" tvg-name="Baywatch" tvg-logo="" group-title="United Kingdom",Baywatch
 https://jmp2.uk/sam-GBBD600002XT.m3u8
 #EXTINF:-1 channel-id="ITBD1300001FA-it" tvg-id="ITBD1300001FA" tvg-chno="4002" tvg-name="Baywatch" tvg-logo="" group-title="Italy",Baywatch
 https://jmp2.uk/sam-ITBD1300001FA.m3u8
@@ -543,7 +543,7 @@ https://jmp2.uk/sam-USBD2700005KL.m3u8
 https://jmp2.uk/sam-ES3000008O8.m3u8
 #EXTINF:-1 channel-id="ESBC2700012RP-es" tvg-id="ESBC2700012RP" tvg-chno="4904" tvg-name="Cine Feel Good – Verdi TV" tvg-logo="" group-title="Spain",Cine Feel Good – Verdi TV
 https://jmp2.uk/sam-ESBC2700012RP.m3u8
-#EXTINF:-1 channel-id="ESBD800001RJ-es" tvg-id="ESBD800001RJ" tvg-chno="4003" tvg-name="Cine Friki" tvg-logo="" group-title="Spain",Cine Friki
+#EXTINF:-1 channel-id="ESBD800001RJ-es" tvg-id="ESBD800001RJ" tvg-chno="4949" tvg-name="Cine Friki" tvg-logo="" group-title="Spain",Cine Friki
 https://jmp2.uk/sam-ESBD800001RJ.m3u8
 #EXTINF:-1 channel-id="IT3600005AL-it" tvg-id="IT3600005AL" tvg-chno="4953" tvg-name="Cine Paura" tvg-logo="" group-title="Italy",Cine Paura
 https://jmp2.uk/sam-IT3600005AL.m3u8
@@ -699,7 +699,7 @@ https://jmp2.uk/sam-FR2500001BS.m3u8
 https://jmp2.uk/sam-GB2500002K0.m3u8
 #EXTINF:-1 channel-id="IT2500001IF-it" tvg-id="IT2500001IF" tvg-chno="4740" tvg-name="Cool Summer Channel" tvg-logo="" group-title="Italy",Cool Summer Channel
 https://jmp2.uk/sam-IT2500001IF.m3u8
-#EXTINF:-1 channel-id="CABC23000189A-ca" tvg-id="CABC23000189A" tvg-chno="1001" tvg-name="Cops" tvg-logo="" group-title="Canada",Cops
+#EXTINF:-1 channel-id="CABC23000189A-ca" tvg-id="CABC23000189A" tvg-chno="1800" tvg-name="Cops" tvg-logo="" group-title="Canada",Cops
 https://jmp2.uk/sam-CABC23000189A.m3u8
 #EXTINF:-1 channel-id="ESBD1300003VN-es" tvg-id="ESBD1300003VN" tvg-chno="4243" tvg-name="Corazón" tvg-logo="" group-title="Spain",Corazón
 https://jmp2.uk/sam-ESBD1300003VN.m3u8
@@ -721,7 +721,7 @@ https://jmp2.uk/sam-GBBD260000189.m3u8
 https://jmp2.uk/sam-FR2600009UG.m3u8
 #EXTINF:-1 channel-id="USAK3508703A-us" tvg-id="USAK3508703A" tvg-chno="1820" tvg-name="Crime 24/7" tvg-logo="" group-title="United States",Crime 24/7
 https://jmp2.uk/sam-USAK3508703A.m3u8
-#EXTINF:-1 channel-id="GBBD4100010H1-gb" tvg-id="GBBD4100010H1" tvg-chno="4291" tvg-name="Crime Network" tvg-logo="" group-title="United Kingdom",Crime Network
+#EXTINF:-1 channel-id="GBBD4100010H1-gb" tvg-id="GBBD4100010H1" tvg-chno="4002" tvg-name="Crime Network" tvg-logo="" group-title="United Kingdom",Crime Network
 https://jmp2.uk/sam-GBBD4100010H1.m3u8
 #EXTINF:-1 channel-id="AT260000634-at" tvg-id="AT260000634" tvg-chno="4005" tvg-name="Crime Serien - Rakuten TV" tvg-logo="" group-title="Austria",Crime Serien - Rakuten TV
 https://jmp2.uk/sam-AT260000634.m3u8
@@ -753,7 +753,7 @@ https://jmp2.uk/sam-USBB5200022PY.m3u8
 https://jmp2.uk/sam-DE1600005LU.m3u8
 #EXTINF:-1 channel-id="CA14000028T-ca" tvg-id="CA14000028T" tvg-chno="2008" tvg-name="CTV @ Home" tvg-logo="" group-title="Canada",CTV @ Home
 https://jmp2.uk/sam-CA14000028T.m3u8
-#EXTINF:-1 channel-id="CA35000025N-ca" tvg-id="CA35000025N" tvg-chno="1907" tvg-name="CTV Gets Real" tvg-logo="" group-title="Canada",CTV Gets Real
+#EXTINF:-1 channel-id="CA35000025N-ca" tvg-id="CA35000025N" tvg-chno="1002" tvg-name="CTV Gets Real" tvg-logo="" group-title="Canada",CTV Gets Real
 https://jmp2.uk/sam-CA35000025N.m3u8
 #EXTINF:-1 channel-id="CA14000105P-ca" tvg-id="CA14000105P" tvg-chno="1906" tvg-name="CTV Gridlock" tvg-logo="" group-title="Canada",CTV Gridlock
 https://jmp2.uk/sam-CA14000105P.m3u8
@@ -805,7 +805,7 @@ https://jmp2.uk/sam-GBBD3700001AB.m3u8
 https://jmp2.uk/sam-ITBD3700001TM.m3u8
 #EXTINF:-1 channel-id="USBB5200007BY-us" tvg-id="USBB5200007BY" tvg-chno="1840" tvg-name="Dateline 24/7" tvg-logo="" group-title="United States",Dateline 24/7
 https://jmp2.uk/sam-USBB5200007BY.m3u8
-#EXTINF:-1 channel-id="US4100005NW-us" tvg-id="US4100005NW" tvg-chno="1000" tvg-name="Dawson's Creek" tvg-logo="" group-title="United States",Dawson's Creek
+#EXTINF:-1 channel-id="US4100005NW-us" tvg-id="US4100005NW" tvg-chno="1567" tvg-name="Dawson's Creek" tvg-logo="" group-title="United States",Dawson's Creek
 https://jmp2.uk/sam-US4100005NW.m3u8
 #EXTINF:-1 channel-id="ATBC4700001JX-at" tvg-id="ATBC4700001JX" tvg-chno="4631" tvg-name="DAZN FAST+" tvg-logo="" group-title="Austria",DAZN FAST+
 https://jmp2.uk/sam-ATBC4700001JX.m3u8
@@ -1015,13 +1015,13 @@ https://jmp2.uk/sam-CHBB3400001IU.m3u8
 https://jmp2.uk/sam-ES260001081.m3u8
 #EXTINF:-1 channel-id="ESBA3300033PL-es" tvg-id="ESBA3300033PL" tvg-chno="4213" tvg-name="Encantador de Perros" tvg-logo="" group-title="Spain",Encantador de Perros
 https://jmp2.uk/sam-ESBA3300033PL.m3u8
-#EXTINF:-1 channel-id="FRBC90000220-fr" tvg-id="FRBC90000220" tvg-chno="4357" tvg-name="Enquêtes de Choc" tvg-logo="" group-title="France",Enquêtes de Choc
+#EXTINF:-1 channel-id="FRBC90000220-fr" tvg-id="FRBC90000220" tvg-chno="4003" tvg-name="Enquêtes de Choc" tvg-logo="" group-title="France",Enquêtes de Choc
 https://jmp2.uk/sam-FRBC90000220.m3u8
 #EXTINF:-1 channel-id="CHBC3500001NJ-ch" tvg-id="CHBC3500001NJ" tvg-chno="4361" tvg-name="Enquêtes de Choc [FR]" tvg-logo="" group-title="Switzerland",Enquêtes de Choc [FR]
 https://jmp2.uk/sam-CHBC3500001NJ.m3u8
 #EXTINF:-1 channel-id="GBBC2300003ZQ-gb" tvg-id="GBBC2300003ZQ" tvg-chno="4001" tvg-name="Entertainment Hub" tvg-logo="" group-title="United Kingdom",Entertainment Hub
 https://jmp2.uk/sam-GBBC2300003ZQ.m3u8
-#EXTINF:-1 channel-id="DEBC4700002Z2-de" tvg-id="DEBC4700002Z2" tvg-chno="4007" tvg-name="Entertainment Mix" tvg-logo="" group-title="Germany",Entertainment Mix
+#EXTINF:-1 channel-id="DEBC4700002Z2-de" tvg-id="DEBC4700002Z2" tvg-chno="4001" tvg-name="Entertainment Mix" tvg-logo="" group-title="Germany",Entertainment Mix
 https://jmp2.uk/sam-DEBC4700002Z2.m3u8
 #EXTINF:-1 channel-id="IN17000109O-in" tvg-id="IN17000109O" tvg-chno="1165" tvg-name="Epic" tvg-logo="" group-title="India",Epic
 https://jmp2.uk/sam-IN17000109O.m3u8
@@ -1055,7 +1055,7 @@ https://jmp2.uk/sam-CH26000037F.m3u8
 https://jmp2.uk/sam-DE2600003TR.m3u8
 #EXTINF:-1 channel-id="GB2600019ON-gb" tvg-id="GB2600019ON" tvg-chno="4004" tvg-name="Euronews LIVE" tvg-logo="" group-title="United Kingdom",Euronews LIVE
 https://jmp2.uk/sam-GB2600019ON.m3u8
-#EXTINF:-1 channel-id="IT4600001JQ-it" tvg-id="IT4600001JQ" tvg-chno="4258" tvg-name="Eva Luna - La Serie completa" tvg-logo="" group-title="Italy",Eva Luna - La Serie completa
+#EXTINF:-1 channel-id="IT4600001JQ-it" tvg-id="IT4600001JQ" tvg-chno="4001" tvg-name="Eva Luna - La Serie completa" tvg-logo="" group-title="Italy",Eva Luna - La Serie completa
 https://jmp2.uk/sam-IT4600001JQ.m3u8
 #EXTINF:-1 channel-id="CA900003IF-ca" tvg-id="CA900003IF" tvg-chno="3540" tvg-name="Evolution Earth" tvg-logo="" group-title="Canada",Evolution Earth
 https://jmp2.uk/sam-CA900003IF.m3u8
@@ -1239,9 +1239,9 @@ https://jmp2.uk/sam-CA900008L6.m3u8
 https://jmp2.uk/sam-GB2700010NQ.m3u8
 #EXTINF:-1 channel-id="USBD4200008RS-us" tvg-id="USBD4200008RS" tvg-chno="2020" tvg-name="Flipping Nation by A&E" tvg-logo="" group-title="United States",Flipping Nation by A&E
 https://jmp2.uk/sam-USBD4200008RS.m3u8
-#EXTINF:-1 channel-id="AT4600002H5-at" tvg-id="AT4600002H5" tvg-chno="4496" tvg-name="Fluss Monsters" tvg-logo="" group-title="Austria",Fluss Monsters
+#EXTINF:-1 channel-id="AT4600002H5-at" tvg-id="AT4600002H5" tvg-chno="4003" tvg-name="Fluss Monsters" tvg-logo="" group-title="Austria",Fluss Monsters
 https://jmp2.uk/sam-AT4600002H5.m3u8
-#EXTINF:-1 channel-id="DE3700001F7-de" tvg-id="DE3700001F7" tvg-chno="4496" tvg-name="Fluss Monsters" tvg-logo="" group-title="Germany",Fluss Monsters
+#EXTINF:-1 channel-id="DE3700001F7-de" tvg-id="DE3700001F7" tvg-chno="4003" tvg-name="Fluss Monsters" tvg-logo="" group-title="Germany",Fluss Monsters
 https://jmp2.uk/sam-DE3700001F7.m3u8
 #EXTINF:-1 channel-id="IN460000313-in" tvg-id="IN460000313" tvg-chno="1365" tvg-name="Foodie Hub" tvg-logo="" group-title="India",Foodie Hub
 https://jmp2.uk/sam-IN460000313.m3u8
@@ -1305,7 +1305,7 @@ https://jmp2.uk/sam-USAJ2200023Z0.m3u8
 https://jmp2.uk/sam-IN2600013B3.m3u8
 #EXTINF:-1 channel-id="USBD2700002DU-us" tvg-id="USBD2700002DU" tvg-chno="3960" tvg-name="Galanes" tvg-logo="" group-title="United States",Galanes
 https://jmp2.uk/sam-USBD2700002DU.m3u8
-#EXTINF:-1 channel-id="IT500011RG-it" tvg-id="IT500011RG" tvg-chno="4003" tvg-name="Gambero Rosso" tvg-logo="" group-title="Italy",Gambero Rosso
+#EXTINF:-1 channel-id="IT500011RG-it" tvg-id="IT500011RG" tvg-chno="4516" tvg-name="Gambero Rosso" tvg-logo="" group-title="Italy",Gambero Rosso
 https://jmp2.uk/sam-IT500011RG.m3u8
 #EXTINF:-1 channel-id="CA4400001O0-ca" tvg-id="CA4400001O0" tvg-chno="2483" tvg-name="Game & Fish TV" tvg-logo="" group-title="Canada",Game & Fish TV
 https://jmp2.uk/sam-CA4400001O0.m3u8
@@ -1359,7 +1359,7 @@ https://jmp2.uk/sam-GBAJ49000197P.m3u8
 https://jmp2.uk/sam-INBA5100025YE.m3u8
 #EXTINF:-1 channel-id="ITBC1100003KC-it" tvg-id="ITBC1100003KC" tvg-chno="4872" tvg-name="Grandi Nomi" tvg-logo="" group-title="Italy",Grandi Nomi
 https://jmp2.uk/sam-ITBC1100003KC.m3u8
-#EXTINF:-1 channel-id="CABD1200001SY-ca" tvg-id="CABD1200001SY" tvg-chno="1260" tvg-name="Gravitas Movies" tvg-logo="" group-title="Canada",Gravitas Movies
+#EXTINF:-1 channel-id="CABD1200001SY-ca" tvg-id="CABD1200001SY" tvg-chno="1003" tvg-name="Gravitas Movies" tvg-logo="" group-title="Canada",Gravitas Movies
 https://jmp2.uk/sam-CABD1200001SY.m3u8
 #EXTINF:-1 channel-id="USBD700011RE-us" tvg-id="USBD700011RE" tvg-chno="1260" tvg-name="Gravitas Movies" tvg-logo="" group-title="United States",Gravitas Movies
 https://jmp2.uk/sam-USBD700011RE.m3u8
@@ -1401,7 +1401,7 @@ https://jmp2.uk/sam-FRBC4700001XG.m3u8
 https://jmp2.uk/sam-CHBD200003G1.m3u8
 #EXTINF:-1 channel-id="AT80000194-at" tvg-id="AT80000194" tvg-chno="4214" tvg-name="H2O & Friends" tvg-logo="" group-title="Austria",H2O & Friends
 https://jmp2.uk/sam-AT80000194.m3u8
-#EXTINF:-1 channel-id="CH800001RT-ch" tvg-id="CH800001RT" tvg-chno="4214" tvg-name="H2O & Friends" tvg-logo="" group-title="Switzerland",H2O & Friends
+#EXTINF:-1 channel-id="CH800001RT-ch" tvg-id="CH800001RT" tvg-chno="4001" tvg-name="H2O & Friends" tvg-logo="" group-title="Switzerland",H2O & Friends
 https://jmp2.uk/sam-CH800001RT.m3u8
 #EXTINF:-1 channel-id="DE500002LD-de" tvg-id="DE500002LD" tvg-chno="4214" tvg-name="H2O & Friends" tvg-logo="" group-title="Germany",H2O & Friends
 https://jmp2.uk/sam-DE500002LD.m3u8
@@ -1433,7 +1433,7 @@ https://jmp2.uk/sam-CABA800009T5.m3u8
 https://jmp2.uk/sam-USBC4400006BR.m3u8
 #EXTINF:-1 channel-id="INBC43000016J-in" tvg-id="INBC43000016J" tvg-chno="1378" tvg-name="HD TRAVEL" tvg-logo="" group-title="India",HD TRAVEL
 https://jmp2.uk/sam-INBC43000016J.m3u8
-#EXTINF:-1 channel-id="CA34000033Z-ca" tvg-id="CA34000033Z" tvg-chno="1002" tvg-name="Hearties" tvg-logo="" group-title="Canada",Hearties
+#EXTINF:-1 channel-id="CA34000033Z-ca" tvg-id="CA34000033Z" tvg-chno="1480" tvg-name="Hearties" tvg-logo="" group-title="Canada",Hearties
 https://jmp2.uk/sam-CA34000033Z.m3u8
 #EXTINF:-1 channel-id="AT3700002Z3-at" tvg-id="AT3700002Z3" tvg-chno="4232" tvg-name="Heartland" tvg-logo="" group-title="Austria",Heartland
 https://jmp2.uk/sam-AT3700002Z3.m3u8
@@ -1465,7 +1465,7 @@ https://jmp2.uk/sam-USBB2900002Z7.m3u8
 https://jmp2.uk/sam-INBC2800020QX.m3u8
 #EXTINF:-1 channel-id="AT1500003M7-at" tvg-id="AT1500003M7" tvg-chno="4237" tvg-name="Herzfrequenz" tvg-logo="" group-title="Austria",Herzfrequenz
 https://jmp2.uk/sam-AT1500003M7.m3u8
-#EXTINF:-1 channel-id="DE1000001CT-de" tvg-id="DE1000001CT" tvg-chno="4003" tvg-name="Herzfrequenz" tvg-logo="" group-title="Germany",Herzfrequenz
+#EXTINF:-1 channel-id="DE1000001CT-de" tvg-id="DE1000001CT" tvg-chno="4237" tvg-name="Herzfrequenz" tvg-logo="" group-title="Germany",Herzfrequenz
 https://jmp2.uk/sam-DE1000001CT.m3u8
 #EXTINF:-1 channel-id="IT900003FU-it" tvg-id="IT900003FU" tvg-chno="4525" tvg-name="HGTV" tvg-logo="" group-title="Italy",HGTV
 https://jmp2.uk/sam-IT900003FU.m3u8
@@ -1489,7 +1489,7 @@ https://jmp2.uk/sam-ATAJ0500430A.m3u8
 https://jmp2.uk/sam-DEAJ0500424A.m3u8
 #EXTINF:-1 channel-id="US2600019IC-us" tvg-id="US2600019IC" tvg-chno="3810" tvg-name="Historia" tvg-logo="" group-title="United States",Historia
 https://jmp2.uk/sam-US2600019IC.m3u8
-#EXTINF:-1 channel-id="ES12000024R-es" tvg-id="ES12000024R" tvg-chno="4416" tvg-name="Historia y Vida" tvg-logo="" group-title="Spain",Historia y Vida
+#EXTINF:-1 channel-id="ES12000024R-es" tvg-id="ES12000024R" tvg-chno="4001" tvg-name="Historia y Vida" tvg-logo="" group-title="Spain",Historia y Vida
 https://jmp2.uk/sam-ES12000024R.m3u8
 #EXTINF:-1 channel-id="CA600001C3-ca" tvg-id="CA600001C3" tvg-chno="3547" tvg-name="History & Warfare" tvg-logo="" group-title="Canada",History & Warfare
 https://jmp2.uk/sam-CA600001C3.m3u8
@@ -1543,11 +1543,11 @@ https://jmp2.uk/sam-IN4600009F9.m3u8
 https://jmp2.uk/sam-IN4600007TC.m3u8
 #EXTINF:-1 channel-id="USBC100001175-us" tvg-id="USBC100001175" tvg-chno="3075" tvg-name="Horror by ALTER" tvg-logo="" group-title="United States",Horror by ALTER
 https://jmp2.uk/sam-USBC100001175.m3u8
-#EXTINF:-1 channel-id="CA2900007ZL-ca" tvg-id="CA2900007ZL" tvg-chno="2622" tvg-name="Hot Ones" tvg-logo="" group-title="Canada",Hot Ones
+#EXTINF:-1 channel-id="CA2900007ZL-ca" tvg-id="CA2900007ZL" tvg-chno="1000" tvg-name="Hot Ones" tvg-logo="" group-title="Canada",Hot Ones
 https://jmp2.uk/sam-CA2900007ZL.m3u8
 #EXTINF:-1 channel-id="GB4600001W9-gb" tvg-id="GB4600001W9" tvg-chno="4144" tvg-name="Hot Ones" tvg-logo="" group-title="United Kingdom",Hot Ones
 https://jmp2.uk/sam-GB4600001W9.m3u8
-#EXTINF:-1 channel-id="US2900006IV-us" tvg-id="US2900006IV" tvg-chno="2622" tvg-name="Hot Ones" tvg-logo="" group-title="United States",Hot Ones
+#EXTINF:-1 channel-id="US2900006IV-us" tvg-id="US2900006IV" tvg-chno="1001" tvg-name="Hot Ones" tvg-logo="" group-title="United States",Hot Ones
 https://jmp2.uk/sam-US2900006IV.m3u8
 #EXTINF:-1 channel-id="US2900013AY-us" tvg-id="US2900013AY" tvg-chno="3614" tvg-name="Hot Wheels Action" tvg-logo="" group-title="United States",Hot Wheels Action
 https://jmp2.uk/sam-US2900013AY.m3u8
@@ -1651,7 +1651,7 @@ https://jmp2.uk/sam-INBA4900005PV.m3u8
 https://jmp2.uk/sam-USBA300023G8.m3u8
 #EXTINF:-1 channel-id="USBD300002TU-us" tvg-id="USBD300002TU" tvg-chno="1510" tvg-name="ION" tvg-logo="" group-title="United States",ION
 https://jmp2.uk/sam-USBD300002TU.m3u8
-#EXTINF:-1 channel-id="USBC24000223S-us" tvg-id="USBC24000223S" tvg-chno="1810" tvg-name="ION Mystery" tvg-logo="" group-title="United States",ION Mystery
+#EXTINF:-1 channel-id="USBC24000223S-us" tvg-id="USBC24000223S" tvg-chno="1002" tvg-name="ION Mystery" tvg-logo="" group-title="United States",ION Mystery
 https://jmp2.uk/sam-USBC24000223S.m3u8
 #EXTINF:-1 channel-id="USBD300003LK-us" tvg-id="USBD300003LK" tvg-chno="1511" tvg-name="ION Plus" tvg-logo="" group-title="United States",ION Plus
 https://jmp2.uk/sam-USBD300003LK.m3u8
@@ -1801,7 +1801,7 @@ https://jmp2.uk/sam-FR200016Y5.m3u8
 https://jmp2.uk/sam-FRBC4200004XH.m3u8
 #EXTINF:-1 channel-id="FRBC4200005X2-fr" tvg-id="FRBC4200005X2" tvg-chno="4607" tvg-name="L'Equipe Live 2" tvg-logo="" group-title="France",L'Equipe Live 2
 https://jmp2.uk/sam-FRBC4200005X2.m3u8
-#EXTINF:-1 channel-id="ESBC4100001NZ-es" tvg-id="ESBC4100001NZ" tvg-chno="4001" tvg-name="La 1" tvg-logo="" group-title="Spain",La 1
+#EXTINF:-1 channel-id="ESBC4100001NZ-es" tvg-id="ESBC4100001NZ" tvg-chno="4007" tvg-name="La 1" tvg-logo="" group-title="Spain",La 1
 https://jmp2.uk/sam-ESBC4100001NZ.m3u8
 #EXTINF:-1 channel-id="ESBC4100002AG-es" tvg-id="ESBC4100002AG" tvg-chno="4035" tvg-name="La 2" tvg-logo="" group-title="Spain",La 2
 https://jmp2.uk/sam-ESBC4100002AG.m3u8
@@ -1837,7 +1837,7 @@ https://jmp2.uk/sam-CHBC14000022X.m3u8
 https://jmp2.uk/sam-FRBC1400002JN.m3u8
 #EXTINF:-1 channel-id="FRBD1900006NA-fr" tvg-id="FRBD1900006NA" tvg-chno="4142" tvg-name="Le meilleur d'Arthur" tvg-logo="" group-title="France",Le meilleur d'Arthur
 https://jmp2.uk/sam-FRBD1900006NA.m3u8
-#EXTINF:-1 channel-id="FRBD3900005MB-fr" tvg-id="FRBD3900005MB" tvg-chno="4001" tvg-name="Le Meilleur de la TV Réalité" tvg-logo="" group-title="France",Le Meilleur de la TV Réalité
+#EXTINF:-1 channel-id="FRBD3900005MB-fr" tvg-id="FRBD3900005MB" tvg-chno="4068" tvg-name="Le Meilleur de la TV Réalité" tvg-logo="" group-title="France",Le Meilleur de la TV Réalité
 https://jmp2.uk/sam-FRBD3900005MB.m3u8
 #EXTINF:-1 channel-id="FR3600004UH-fr" tvg-id="FR3600004UH" tvg-chno="4107" tvg-name="Le Meilleur des Jeux TV" tvg-logo="" group-title="France",Le Meilleur des Jeux TV
 https://jmp2.uk/sam-FR3600004UH.m3u8
@@ -1853,7 +1853,7 @@ https://jmp2.uk/sam-FRBC47000054S.m3u8
 https://jmp2.uk/sam-CHBD200004J8.m3u8
 #EXTINF:-1 channel-id="FRBD2300002CM-fr" tvg-id="FRBD2300002CM" tvg-chno="4801" tvg-name="Les Lapins Crétins: Invasion" tvg-logo="" group-title="France",Les Lapins Crétins: Invasion
 https://jmp2.uk/sam-FRBD2300002CM.m3u8
-#EXTINF:-1 channel-id="FRBA3300022OA-fr" tvg-id="FRBA3300022OA" tvg-chno="4269" tvg-name="Les riches pleurent aussi" tvg-logo="" group-title="France",Les riches pleurent aussi
+#EXTINF:-1 channel-id="FRBA3300022OA-fr" tvg-id="FRBA3300022OA" tvg-chno="4006" tvg-name="Les riches pleurent aussi" tvg-logo="" group-title="France",Les riches pleurent aussi
 https://jmp2.uk/sam-FRBA3300022OA.m3u8
 #EXTINF:-1 channel-id="FRBD410000436-fr" tvg-id="FRBD410000436" tvg-chno="4358" tvg-name="Les secrets de nos régions" tvg-logo="" group-title="France",Les secrets de nos régions
 https://jmp2.uk/sam-FRBD410000436.m3u8
@@ -1865,11 +1865,11 @@ https://jmp2.uk/sam-CA40000064R.m3u8
 https://jmp2.uk/sam-US4000004N1.m3u8
 #EXTINF:-1 channel-id="GB37000067A-gb" tvg-id="GB37000067A" tvg-chno="4894" tvg-name="Lifetime Movies" tvg-logo="" group-title="United Kingdom",Lifetime Movies
 https://jmp2.uk/sam-GB37000067A.m3u8
-#EXTINF:-1 channel-id="US1600002OK-us" tvg-id="US1600002OK" tvg-chno="1226" tvg-name="Lifetime Movies Love & Drama" tvg-logo="" group-title="United States",Lifetime Movies Love & Drama
+#EXTINF:-1 channel-id="US1600002OK-us" tvg-id="US1600002OK" tvg-chno="1003" tvg-name="Lifetime Movies Love & Drama" tvg-logo="" group-title="United States",Lifetime Movies Love & Drama
 https://jmp2.uk/sam-US1600002OK.m3u8
-#EXTINF:-1 channel-id="AT3300001K9-at" tvg-id="AT3300001K9" tvg-chno="4263" tvg-name="Lindenstraße" tvg-logo="" group-title="Austria",Lindenstraße
+#EXTINF:-1 channel-id="AT3300001K9-at" tvg-id="AT3300001K9" tvg-chno="4002" tvg-name="Lindenstraße" tvg-logo="" group-title="Austria",Lindenstraße
 https://jmp2.uk/sam-AT3300001K9.m3u8
-#EXTINF:-1 channel-id="CH4600001X9-ch" tvg-id="CH4600001X9" tvg-chno="4003" tvg-name="Lindenstraße" tvg-logo="" group-title="Switzerland",Lindenstraße
+#EXTINF:-1 channel-id="CH4600001X9-ch" tvg-id="CH4600001X9" tvg-chno="4263" tvg-name="Lindenstraße" tvg-logo="" group-title="Switzerland",Lindenstraße
 https://jmp2.uk/sam-CH4600001X9.m3u8
 #EXTINF:-1 channel-id="DE33000013J-de" tvg-id="DE33000013J" tvg-chno="4263" tvg-name="Lindenstraße" tvg-logo="" group-title="Germany",Lindenstraße
 https://jmp2.uk/sam-DE33000013J.m3u8
@@ -1879,7 +1879,7 @@ https://jmp2.uk/sam-US18000078A.m3u8
 https://jmp2.uk/sam-CA900007X0.m3u8
 #EXTINF:-1 channel-id="USBD170000771-us" tvg-id="USBD170000771" tvg-chno="1910" tvg-name="Little Women: LA" tvg-logo="" group-title="United States",Little Women: LA
 https://jmp2.uk/sam-USBD170000771.m3u8
-#EXTINF:-1 channel-id="US160000159-us" tvg-id="US160000159" tvg-chno="1003" tvg-name="Live PD Presents" tvg-logo="" group-title="United States",Live PD Presents
+#EXTINF:-1 channel-id="US160000159-us" tvg-id="US160000159" tvg-chno="1846" tvg-name="Live PD Presents" tvg-logo="" group-title="United States",Live PD Presents
 https://jmp2.uk/sam-US160000159.m3u8
 #EXTINF:-1 channel-id="USBA300024TN-us" tvg-id="USBA300024TN" tvg-chno="1116" tvg-name="LiveNOW from FOX" tvg-logo="" group-title="United States",LiveNOW from FOX
 https://jmp2.uk/sam-USBA300024TN.m3u8
@@ -2201,7 +2201,7 @@ https://jmp2.uk/sam-US2000014IC.m3u8
 https://jmp2.uk/sam-CA700002VS.m3u8
 #EXTINF:-1 channel-id="US700021SM-us" tvg-id="US700021SM" tvg-chno="2505" tvg-name="NASCAR Channel" tvg-logo="" group-title="United States",NASCAR Channel
 https://jmp2.uk/sam-US700021SM.m3u8
-#EXTINF:-1 channel-id="AT4600003EY-at" tvg-id="AT4600003EY" tvg-chno="4003" tvg-name="Nashville" tvg-logo="" group-title="Austria",Nashville
+#EXTINF:-1 channel-id="AT4600003EY-at" tvg-id="AT4600003EY" tvg-chno="4233" tvg-name="Nashville" tvg-logo="" group-title="Austria",Nashville
 https://jmp2.uk/sam-AT4600003EY.m3u8
 #EXTINF:-1 channel-id="CH4600002VO-ch" tvg-id="CH4600002VO" tvg-chno="4233" tvg-name="Nashville" tvg-logo="" group-title="Switzerland",Nashville
 https://jmp2.uk/sam-CH4600002VO.m3u8
@@ -2399,13 +2399,13 @@ https://jmp2.uk/sam-USBD4200017GS.m3u8
 https://jmp2.uk/sam-USBB800001O7.m3u8
 #EXTINF:-1 channel-id="US13000081O-us" tvg-id="US13000081O" tvg-chno="2125" tvg-name="PBS Food" tvg-logo="" group-title="United States",PBS Food
 https://jmp2.uk/sam-US13000081O.m3u8
-#EXTINF:-1 channel-id="US130000639-us" tvg-id="US130000639" tvg-chno="1002" tvg-name="PBS Genealogy" tvg-logo="" group-title="United States",PBS Genealogy
+#EXTINF:-1 channel-id="US130000639-us" tvg-id="US130000639" tvg-chno="2905" tvg-name="PBS Genealogy" tvg-logo="" group-title="United States",PBS Genealogy
 https://jmp2.uk/sam-US130000639.m3u8
 #EXTINF:-1 channel-id="USBC3600013PC-us" tvg-id="USBC3600013PC" tvg-chno="3615" tvg-name="PBS Kids" tvg-logo="" group-title="United States",PBS Kids
 https://jmp2.uk/sam-USBC3600013PC.m3u8
 #EXTINF:-1 channel-id="US1300007KZ-us" tvg-id="US1300007KZ" tvg-chno="3528" tvg-name="PBS Nature" tvg-logo="" group-title="United States",PBS Nature
 https://jmp2.uk/sam-US1300007KZ.m3u8
-#EXTINF:-1 channel-id="CA13000084U-ca" tvg-id="CA13000084U" tvg-chno="1004" tvg-name="PBS Travel" tvg-logo="" group-title="Canada",PBS Travel
+#EXTINF:-1 channel-id="CA13000084U-ca" tvg-id="CA13000084U" tvg-chno="2126" tvg-name="PBS Travel" tvg-logo="" group-title="Canada",PBS Travel
 https://jmp2.uk/sam-CA13000084U.m3u8
 #EXTINF:-1 channel-id="US1300005MK-us" tvg-id="US1300005MK" tvg-chno="2126" tvg-name="PBS Travel" tvg-logo="" group-title="United States",PBS Travel
 https://jmp2.uk/sam-US1300005MK.m3u8
@@ -2577,7 +2577,7 @@ https://jmp2.uk/sam-USBA300005MK.m3u8
 https://jmp2.uk/sam-CABD120000693.m3u8
 #EXTINF:-1 channel-id="USBD12000153A-us" tvg-id="USBD12000153A" tvg-chno="3702" tvg-name="pocket.watch Game-On" tvg-logo="" group-title="United States",pocket.watch Game-On
 https://jmp2.uk/sam-USBD12000153A.m3u8
-#EXTINF:-1 channel-id="DE700001BN-de" tvg-id="DE700001BN" tvg-chno="4002" tvg-name="Pocoyo" tvg-logo="" group-title="Germany",Pocoyo
+#EXTINF:-1 channel-id="DE700001BN-de" tvg-id="DE700001BN" tvg-chno="4781" tvg-name="Pocoyo" tvg-logo="" group-title="Germany",Pocoyo
 https://jmp2.uk/sam-DE700001BN.m3u8
 #EXTINF:-1 channel-id="FR700001VJ-fr" tvg-id="FR700001VJ" tvg-chno="4779" tvg-name="Pocoyo" tvg-logo="" group-title="France",Pocoyo
 https://jmp2.uk/sam-FR700001VJ.m3u8
@@ -2613,9 +2613,9 @@ https://jmp2.uk/sam-CABD1200016E8.m3u8
 https://jmp2.uk/sam-USBD2500017XQ.m3u8
 #EXTINF:-1 channel-id="GBBB4600001IK-gb" tvg-id="GBBB4600001IK" tvg-chno="4062" tvg-name="Project Runway" tvg-logo="" group-title="United Kingdom",Project Runway
 https://jmp2.uk/sam-GBBB4600001IK.m3u8
-#EXTINF:-1 channel-id="USBB3500004RC-us" tvg-id="USBB3500004RC" tvg-chno="1001" tvg-name="Project Runway" tvg-logo="" group-title="United States",Project Runway
+#EXTINF:-1 channel-id="USBB3500004RC-us" tvg-id="USBB3500004RC" tvg-chno="2759" tvg-name="Project Runway" tvg-logo="" group-title="United States",Project Runway
 https://jmp2.uk/sam-USBB3500004RC.m3u8
-#EXTINF:-1 channel-id="CA1400017PU-ca" tvg-id="CA1400017PU" tvg-chno="2007" tvg-name="Property Brothers" tvg-logo="" group-title="Canada",Property Brothers
+#EXTINF:-1 channel-id="CA1400017PU-ca" tvg-id="CA1400017PU" tvg-chno="1001" tvg-name="Property Brothers" tvg-logo="" group-title="Canada",Property Brothers
 https://jmp2.uk/sam-CA1400017PU.m3u8
 #EXTINF:-1 channel-id="USBD17000025J-us" tvg-id="USBD17000025J" tvg-chno="2489" tvg-name="Pursuit UP" tvg-logo="" group-title="United States",Pursuit UP
 https://jmp2.uk/sam-USBD17000025J.m3u8
@@ -2683,7 +2683,7 @@ https://jmp2.uk/sam-USBD1700018II.m3u8
 https://jmp2.uk/sam-ATBD1500003ES.m3u8
 #EXTINF:-1 channel-id="DEBC2300001EU-de" tvg-id="DEBC2300001EU" tvg-chno="4609" tvg-name="Red Bull TV" tvg-logo="" group-title="Germany",Red Bull TV
 https://jmp2.uk/sam-DEBC2300001EU.m3u8
-#EXTINF:-1 channel-id="GBBD2300003IK-gb" tvg-id="GBBD2300003IK" tvg-chno="4003" tvg-name="Red Bull TV" tvg-logo="" group-title="United Kingdom",Red Bull TV
+#EXTINF:-1 channel-id="GBBD2300003IK-gb" tvg-id="GBBD2300003IK" tvg-chno="4614" tvg-name="Red Bull TV" tvg-logo="" group-title="United Kingdom",Red Bull TV
 https://jmp2.uk/sam-GBBD2300003IK.m3u8
 #EXTINF:-1 channel-id="USBB3200001MG-us" tvg-id="USBB3200001MG" tvg-chno="1845" tvg-name="REELZ Famous & Infamous" tvg-logo="" group-title="United States",REELZ Famous & Infamous
 https://jmp2.uk/sam-USBB3200001MG.m3u8
@@ -2761,7 +2761,7 @@ https://jmp2.uk/sam-ESBD1400003QN.m3u8
 https://jmp2.uk/sam-ES33000079W.m3u8
 #EXTINF:-1 channel-id="ES33000036Q-es" tvg-id="ES33000036Q" tvg-chno="4412" tvg-name="RTVE Docs" tvg-logo="" group-title="Spain",RTVE Docs
 https://jmp2.uk/sam-ES33000036Q.m3u8
-#EXTINF:-1 channel-id="ES3300004P0-es" tvg-id="ES3300004P0" tvg-chno="4106" tvg-name="RTVE Saber y Ganar" tvg-logo="" group-title="Spain",RTVE Saber y Ganar
+#EXTINF:-1 channel-id="ES3300004P0-es" tvg-id="ES3300004P0" tvg-chno="4002" tvg-name="RTVE Saber y Ganar" tvg-logo="" group-title="Spain",RTVE Saber y Ganar
 https://jmp2.uk/sam-ES3300004P0.m3u8
 #EXTINF:-1 channel-id="ES33000058B-es" tvg-id="ES33000058B" tvg-chno="4866" tvg-name="RTVE Somos Cine" tvg-logo="" group-title="Spain",RTVE Somos Cine
 https://jmp2.uk/sam-ES33000058B.m3u8
@@ -2801,7 +2801,7 @@ https://jmp2.uk/sam-US3700004Y0.m3u8
 https://jmp2.uk/sam-ITBC3000007XK.m3u8
 #EXTINF:-1 channel-id="US4700001B4-us" tvg-id="US4700001B4" tvg-chno="2328" tvg-name="Samsung Showcase" tvg-logo="" group-title="United States",Samsung Showcase
 https://jmp2.uk/sam-US4700001B4.m3u8
-#EXTINF:-1 channel-id="US300068X7-us" tvg-id="US300068X7" tvg-chno="1004" tvg-name="Samsung Television Network" tvg-logo="" group-title="United States",Samsung Television Network
+#EXTINF:-1 channel-id="US300068X7-us" tvg-id="US300068X7" tvg-chno="1000" tvg-name="Samsung Television Network" tvg-logo="" group-title="United States",Samsung Television Network
 https://jmp2.uk/sam-US300068X7.m3u8
 #EXTINF:-1 channel-id="KRAH2201403A-kr" tvg-id="KRAH2201403A" tvg-chno="765" tvg-name="SAMSUNG UHD" tvg-logo="" group-title="South Korea",SAMSUNG UHD
 https://jmp2.uk/sam-KRAH2201403A.m3u8
@@ -2901,7 +2901,7 @@ https://jmp2.uk/sam-DE3400001N1.m3u8
 https://jmp2.uk/sam-ES3400004SS.m3u8
 #EXTINF:-1 channel-id="FR3400002VW-fr" tvg-id="FR3400002VW" tvg-chno="4571" tvg-name="Sky News International" tvg-logo="" group-title="France",Sky News International
 https://jmp2.uk/sam-FR3400002VW.m3u8
-#EXTINF:-1 channel-id="IT3400003D6-it" tvg-id="IT3400003D6" tvg-chno="4559" tvg-name="Sky News International" tvg-logo="" group-title="Italy",Sky News International
+#EXTINF:-1 channel-id="IT3400003D6-it" tvg-id="IT3400003D6" tvg-chno="4003" tvg-name="Sky News International" tvg-logo="" group-title="Italy",Sky News International
 https://jmp2.uk/sam-IT3400003D6.m3u8
 #EXTINF:-1 channel-id="GB2700012HS-gb" tvg-id="GB2700012HS" tvg-chno="4635" tvg-name="Sky Sports Classics" tvg-logo="" group-title="United Kingdom",Sky Sports Classics
 https://jmp2.uk/sam-GB2700012HS.m3u8
@@ -2977,7 +2977,7 @@ https://jmp2.uk/sam-GB300007J7.m3u8
 https://jmp2.uk/sam-FR300011G9.m3u8
 #EXTINF:-1 channel-id="IT300005J9-it" tvg-id="IT300005J9" tvg-chno="4907" tvg-name="Sony One Film divertenti" tvg-logo="" group-title="Italy",Sony One Film divertenti
 https://jmp2.uk/sam-IT300005J9.m3u8
-#EXTINF:-1 channel-id="IT300004KM-it" tvg-id="IT300004KM" tvg-chno="4001" tvg-name="Sony One Film d’azione" tvg-logo="" group-title="Italy",Sony One Film d’azione
+#EXTINF:-1 channel-id="IT300004KM-it" tvg-id="IT300004KM" tvg-chno="4997" tvg-name="Sony One Film d’azione" tvg-logo="" group-title="Italy",Sony One Film d’azione
 https://jmp2.uk/sam-IT300004KM.m3u8
 #EXTINF:-1 channel-id="ES300006QJ-es" tvg-id="ES300006QJ" tvg-chno="4996" tvg-name="Sony One Hits Acción" tvg-logo="" group-title="Spain",Sony One Hits Acción
 https://jmp2.uk/sam-ES300006QJ.m3u8
@@ -3375,9 +3375,9 @@ https://jmp2.uk/sam-US3300008FX.m3u8
 https://jmp2.uk/sam-CABC2300001X9.m3u8
 #EXTINF:-1 channel-id="USBC2100009GT-us" tvg-id="USBC2100009GT" tvg-chno="3508" tvg-name="The Jack Hanna Channel" tvg-logo="" group-title="United States",The Jack Hanna Channel
 https://jmp2.uk/sam-USBC2100009GT.m3u8
-#EXTINF:-1 channel-id="AT2000029T-at" tvg-id="AT2000029T" tvg-chno="4002" tvg-name="The Jamie Oliver Channel" tvg-logo="" group-title="Austria",The Jamie Oliver Channel
+#EXTINF:-1 channel-id="AT2000029T-at" tvg-id="AT2000029T" tvg-chno="4511" tvg-name="The Jamie Oliver Channel" tvg-logo="" group-title="Austria",The Jamie Oliver Channel
 https://jmp2.uk/sam-AT2000029T.m3u8
-#EXTINF:-1 channel-id="CH20000288-ch" tvg-id="CH20000288" tvg-chno="4511" tvg-name="The Jamie Oliver Channel" tvg-logo="" group-title="Switzerland",The Jamie Oliver Channel
+#EXTINF:-1 channel-id="CH20000288-ch" tvg-id="CH20000288" tvg-chno="4002" tvg-name="The Jamie Oliver Channel" tvg-logo="" group-title="Switzerland",The Jamie Oliver Channel
 https://jmp2.uk/sam-CH20000288.m3u8
 #EXTINF:-1 channel-id="DE200003PX-de" tvg-id="DE200003PX" tvg-chno="4511" tvg-name="The Jamie Oliver Channel" tvg-logo="" group-title="Germany",The Jamie Oliver Channel
 https://jmp2.uk/sam-DE200003PX.m3u8
@@ -3393,7 +3393,7 @@ https://jmp2.uk/sam-IN3800002VK.m3u8
 https://jmp2.uk/sam-GBBC4300005AL.m3u8
 #EXTINF:-1 channel-id="USBA2300001S8-us" tvg-id="USBA2300001S8" tvg-chno="3687" tvg-name="The LEGO Channel" tvg-logo="" group-title="United States",The LEGO Channel
 https://jmp2.uk/sam-USBA2300001S8.m3u8
-#EXTINF:-1 channel-id="CA4500001CL-ca" tvg-id="CA4500001CL" tvg-chno="1000" tvg-name="The Martha Stewart Channel" tvg-logo="" group-title="Canada",The Martha Stewart Channel
+#EXTINF:-1 channel-id="CA4500001CL-ca" tvg-id="CA4500001CL" tvg-chno="2107" tvg-name="The Martha Stewart Channel" tvg-logo="" group-title="Canada",The Martha Stewart Channel
 https://jmp2.uk/sam-CA4500001CL.m3u8
 #EXTINF:-1 channel-id="US4500011SP-us" tvg-id="US4500011SP" tvg-chno="2107" tvg-name="The Martha Stewart Channel" tvg-logo="" group-title="United States",The Martha Stewart Channel
 https://jmp2.uk/sam-US4500011SP.m3u8
@@ -3405,7 +3405,7 @@ https://jmp2.uk/sam-IN38000072R.m3u8
 https://jmp2.uk/sam-USAJ3504547A.m3u8
 #EXTINF:-1 channel-id="ATAJ3200003W3-at" tvg-id="ATAJ3200003W3" tvg-chno="4168" tvg-name="The Pet Collective" tvg-logo="" group-title="Austria",The Pet Collective
 https://jmp2.uk/sam-ATAJ3200003W3.m3u8
-#EXTINF:-1 channel-id="CAAJ270002855-ca" tvg-id="CAAJ270002855" tvg-chno="1003" tvg-name="The Pet Collective" tvg-logo="" group-title="Canada",The Pet Collective
+#EXTINF:-1 channel-id="CAAJ270002855-ca" tvg-id="CAAJ270002855" tvg-chno="3510" tvg-name="The Pet Collective" tvg-logo="" group-title="Canada",The Pet Collective
 https://jmp2.uk/sam-CAAJ270002855.m3u8
 #EXTINF:-1 channel-id="CHAJ3200003RF-ch" tvg-id="CHAJ3200003RF" tvg-chno="4168" tvg-name="The Pet Collective" tvg-logo="" group-title="Switzerland",The Pet Collective
 https://jmp2.uk/sam-CHAJ3200003RF.m3u8
@@ -3469,7 +3469,7 @@ https://jmp2.uk/sam-CABA3700006IC.m3u8
 https://jmp2.uk/sam-USBB1000001XP.m3u8
 #EXTINF:-1 channel-id="USBB32000251N-us" tvg-id="USBB32000251N" tvg-chno="2914" tvg-name="TODAY All Day" tvg-logo="" group-title="United States",TODAY All Day
 https://jmp2.uk/sam-USBB32000251N.m3u8
-#EXTINF:-1 channel-id="ES1600004JV-es" tvg-id="ES1600004JV" tvg-chno="4298" tvg-name="Todo Crimen" tvg-logo="" group-title="Spain",Todo Crimen
+#EXTINF:-1 channel-id="ES1600004JV-es" tvg-id="ES1600004JV" tvg-chno="4003" tvg-name="Todo Crimen" tvg-logo="" group-title="Spain",Todo Crimen
 https://jmp2.uk/sam-ES1600004JV.m3u8
 #EXTINF:-1 channel-id="ESBC43000013T-es" tvg-id="ESBC43000013T" tvg-chno="4265" tvg-name="Todo Novelas" tvg-logo="" group-title="Spain",Todo Novelas
 https://jmp2.uk/sam-ESBC43000013T.m3u8
@@ -3499,7 +3499,7 @@ https://jmp2.uk/sam-FR2600007CB.m3u8
 https://jmp2.uk/sam-CABC2300004A4.m3u8
 #EXTINF:-1 channel-id="DE2400002VA-de" tvg-id="DE2400002VA" tvg-chno="4656" tvg-name="Top Gear" tvg-logo="" group-title="Germany",Top Gear
 https://jmp2.uk/sam-DE2400002VA.m3u8
-#EXTINF:-1 channel-id="ES2700002YP-es" tvg-id="ES2700002YP" tvg-chno="4656" tvg-name="Top Gear" tvg-logo="" group-title="Spain",Top Gear
+#EXTINF:-1 channel-id="ES2700002YP-es" tvg-id="ES2700002YP" tvg-chno="4365" tvg-name="Top Gear" tvg-logo="" group-title="Spain",Top Gear
 https://jmp2.uk/sam-ES2700002YP.m3u8
 #EXTINF:-1 channel-id="FR2400001TP-fr" tvg-id="FR2400001TP" tvg-chno="4660" tvg-name="Top Gear" tvg-logo="" group-title="France",Top Gear
 https://jmp2.uk/sam-FR2400001TP.m3u8
@@ -3677,8 +3677,6 @@ https://jmp2.uk/sam-USBB10000047W.m3u8
 https://jmp2.uk/sam-US1900002QK.m3u8
 #EXTINF:-1 channel-id="USBB3200030CG-us" tvg-id="USBB3200030CG" tvg-chno="1255" tvg-name="Universal Movies" tvg-logo="" group-title="United States",Universal Movies
 https://jmp2.uk/sam-USBB3200030CG.m3u8
-#EXTINF:-1 channel-id="FRBA2200008H8-fr" tvg-id="FRBA2200008H8" tvg-chno="4872" tvg-name="UniversCiné" tvg-logo="" group-title="France",UniversCiné
-https://jmp2.uk/sam-FRBA2200008H8.m3u8
 #EXTINF:-1 channel-id="US900001CX-us" tvg-id="US900001CX" tvg-chno="3540" tvg-name="Universe: Mysteries Solved" tvg-logo="" group-title="United States",Universe: Mysteries Solved
 https://jmp2.uk/sam-US900001CX.m3u8
 #EXTINF:-1 channel-id="CAAJ27000135F-ca" tvg-id="CAAJ27000135F" tvg-chno="1865" tvg-name="Unsolved Mysteries" tvg-logo="" group-title="Canada",Unsolved Mysteries
@@ -3723,7 +3721,7 @@ https://jmp2.uk/sam-FRBC2100002JA.m3u8
 https://jmp2.uk/sam-ESBC2100002LV.m3u8
 #EXTINF:-1 channel-id="USBC3600015GF-us" tvg-id="USBC3600015GF" tvg-chno="4406" tvg-name="Vevo Latino" tvg-logo="" group-title="United States",Vevo Latino
 https://jmp2.uk/sam-USBC3600015GF.m3u8
-#EXTINF:-1 channel-id="CABC52000180Z-ca" tvg-id="CABC52000180Z" tvg-chno="4418" tvg-name="Vevo Pop" tvg-logo="" group-title="Canada",Vevo Pop
+#EXTINF:-1 channel-id="CABC52000180Z-ca" tvg-id="CABC52000180Z" tvg-chno="1004" tvg-name="Vevo Pop" tvg-logo="" group-title="Canada",Vevo Pop
 https://jmp2.uk/sam-CABC52000180Z.m3u8
 #EXTINF:-1 channel-id="DEBC2100001ZJ-de" tvg-id="DEBC2100001ZJ" tvg-chno="4682" tvg-name="Vevo Pop" tvg-logo="" group-title="Germany",Vevo Pop
 https://jmp2.uk/sam-DEBC2100001ZJ.m3u8
@@ -3735,7 +3733,7 @@ https://jmp2.uk/sam-FRBC2100001YY.m3u8
 https://jmp2.uk/sam-GBBC19000017V.m3u8
 #EXTINF:-1 channel-id="ITBC2100001G9-it" tvg-id="ITBC2100001G9" tvg-chno="4682" tvg-name="Vevo Pop" tvg-logo="" group-title="Italy",Vevo Pop
 https://jmp2.uk/sam-ITBC2100001G9.m3u8
-#EXTINF:-1 channel-id="USBC3600008WY-us" tvg-id="USBC3600008WY" tvg-chno="4418" tvg-name="Vevo Pop" tvg-logo="" group-title="United States",Vevo Pop
+#EXTINF:-1 channel-id="USBC3600008WY-us" tvg-id="USBC3600008WY" tvg-chno="1004" tvg-name="Vevo Pop" tvg-logo="" group-title="United States",Vevo Pop
 https://jmp2.uk/sam-USBC3600008WY.m3u8
 #EXTINF:-1 channel-id="USBC3900009K5-us" tvg-id="USBC3900009K5" tvg-chno="4412" tvg-name="Vevo R&B" tvg-logo="" group-title="United States",Vevo R&B
 https://jmp2.uk/sam-USBC3900009K5.m3u8
@@ -3749,7 +3747,7 @@ https://jmp2.uk/sam-FRBD1900013CB.m3u8
 https://jmp2.uk/sam-DEBC21000022L.m3u8
 #EXTINF:-1 channel-id="IT12000029J-it" tvg-id="IT12000029J" tvg-chno="4517" tvg-name="Viaggi & Sapori" tvg-logo="" group-title="Italy",Viaggi & Sapori
 https://jmp2.uk/sam-IT12000029J.m3u8
-#EXTINF:-1 channel-id="ES300033TI-es" tvg-id="ES300033TI" tvg-chno="4002" tvg-name="Viajes & Sabores" tvg-logo="" group-title="Spain",Viajes & Sabores
+#EXTINF:-1 channel-id="ES300033TI-es" tvg-id="ES300033TI" tvg-chno="4514" tvg-name="Viajes & Sabores" tvg-logo="" group-title="Spain",Viajes & Sabores
 https://jmp2.uk/sam-ES300033TI.m3u8
 #EXTINF:-1 channel-id="USBB1900006NY-us" tvg-id="USBB1900006NY" tvg-chno="2938" tvg-name="VICE" tvg-logo="" group-title="United States",VICE
 https://jmp2.uk/sam-USBB1900006NY.m3u8
@@ -3837,9 +3835,9 @@ https://jmp2.uk/sam-ITBA3300046KE.m3u8
 https://jmp2.uk/sam-US3800007CR.m3u8
 #EXTINF:-1 channel-id="ATBA3300031VR-at" tvg-id="ATBA3300031VR" tvg-chno="4486" tvg-name="Wilder Planet" tvg-logo="" group-title="Austria",Wilder Planet
 https://jmp2.uk/sam-ATBA3300031VR.m3u8
-#EXTINF:-1 channel-id="CHBA3300028G3-ch" tvg-id="CHBA3300028G3" tvg-chno="4002" tvg-name="Wilder Planet" tvg-logo="" group-title="Switzerland",Wilder Planet
+#EXTINF:-1 channel-id="CHBA3300028G3-ch" tvg-id="CHBA3300028G3" tvg-chno="4486" tvg-name="Wilder Planet" tvg-logo="" group-title="Switzerland",Wilder Planet
 https://jmp2.uk/sam-CHBA3300028G3.m3u8
-#EXTINF:-1 channel-id="DEBA3300042XG-de" tvg-id="DEBA3300042XG" tvg-chno="4486" tvg-name="Wilder Planet" tvg-logo="" group-title="Germany",Wilder Planet
+#EXTINF:-1 channel-id="DEBA3300042XG-de" tvg-id="DEBA3300042XG" tvg-chno="4002" tvg-name="Wilder Planet" tvg-logo="" group-title="Germany",Wilder Planet
 https://jmp2.uk/sam-DEBA3300042XG.m3u8
 #EXTINF:-1 channel-id="INBD4000058T-in" tvg-id="INBD4000058T" tvg-chno="1058" tvg-name="WION" tvg-logo="" group-title="India",WION
 https://jmp2.uk/sam-INBD4000058T.m3u8
@@ -3995,7 +3993,7 @@ https://jmp2.uk/sam-INBD4000027E.m3u8
 https://jmp2.uk/sam-INBD400001CP.m3u8
 #EXTINF:-1 channel-id="INBD400004NS-in" tvg-id="INBD400004NS" tvg-chno="1037" tvg-name="Zee Business" tvg-logo="" group-title="India",Zee Business
 https://jmp2.uk/sam-INBD400004NS.m3u8
-#EXTINF:-1 channel-id="FR360000680-fr" tvg-id="FR360000680" tvg-chno="4006" tvg-name="Zee Magic" tvg-logo="" group-title="France",Zee Magic
+#EXTINF:-1 channel-id="FR360000680-fr" tvg-id="FR360000680" tvg-chno="4273" tvg-name="Zee Magic" tvg-logo="" group-title="France",Zee Magic
 https://jmp2.uk/sam-FR360000680.m3u8
 #EXTINF:-1 channel-id="INBC4300010Z6-in" tvg-id="INBC4300010Z6" tvg-chno="1039" tvg-name="Zee News" tvg-logo="" group-title="India",Zee News
 https://jmp2.uk/sam-INBC4300010Z6.m3u8
