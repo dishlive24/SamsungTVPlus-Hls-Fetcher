@@ -31,7 +31,7 @@ https://jmp2.uk/sam-IN26000170D.m3u8
 https://jmp2.uk/sam-IN39000187Z.m3u8
 #EXTINF:-1 channel-id="IN3900016WI" tvg-id="IN3900016WI" tvg-chno="1317" tvg-name="B4U Movies" tvg-logo="" group-title="India",B4U Movies
 https://jmp2.uk/sam-IN3900016WI.m3u8
-#EXTINF:-1 channel-id="IN3900017KM" tvg-id="IN3900017KM" tvg-chno="1004" tvg-name="B4U Music" tvg-logo="" group-title="India",B4U Music
+#EXTINF:-1 channel-id="IN3900017KM" tvg-id="IN3900017KM" tvg-chno="1434" tvg-name="B4U Music" tvg-logo="" group-title="India",B4U Music
 https://jmp2.uk/sam-IN3900017KM.m3u8
 #EXTINF:-1 channel-id="INBC280001662" tvg-id="INBC280001662" tvg-chno="1273" tvg-name="BABY FIRST" tvg-logo="" group-title="India",BABY FIRST
 https://jmp2.uk/sam-INBC280001662.m3u8
@@ -41,14 +41,16 @@ https://jmp2.uk/sam-INBC2800008VD.m3u8
 https://jmp2.uk/sam-INBC43000034X.m3u8
 #EXTINF:-1 channel-id="IN4600011RZ" tvg-id="IN4600011RZ" tvg-chno="1415" tvg-name="Bhakti Play" tvg-logo="" group-title="India",Bhakti Play
 https://jmp2.uk/sam-IN4600011RZ.m3u8
-#EXTINF:-1 channel-id="INBA5100006V5" tvg-id="INBA5100006V5" tvg-chno="1229" tvg-name="Billiard TV" tvg-logo="" group-title="India",Billiard TV
-https://jmp2.uk/sam-INBA5100006V5.m3u8
+#EXTINF:-1 channel-id="IN800014F8" tvg-id="IN800014F8" tvg-chno="1229" tvg-name="Billiard TV" tvg-logo="" group-title="India",Billiard TV
+https://jmp2.uk/sam-IN800014F8.m3u8
 #EXTINF:-1 channel-id="INBA5100022O4" tvg-id="INBA5100022O4" tvg-chno="1055" tvg-name="Bloomberg Originals" tvg-logo="" group-title="India",Bloomberg Originals
 https://jmp2.uk/sam-INBA5100022O4.m3u8
 #EXTINF:-1 channel-id="INBA5100021WP" tvg-id="INBA5100021WP" tvg-chno="1053" tvg-name="Bloomberg TV" tvg-logo="" group-title="India",Bloomberg TV
 https://jmp2.uk/sam-INBA5100021WP.m3u8
-#EXTINF:-1 channel-id="INBA5100007ME" tvg-id="INBA5100007ME" tvg-chno="1215" tvg-name="Boxing TV" tvg-logo="" group-title="India",Boxing TV
-https://jmp2.uk/sam-INBA5100007ME.m3u8
+#EXTINF:-1 channel-id="IN2400004WL" tvg-id="IN2400004WL" tvg-chno="1327" tvg-name="Bon Voyage" tvg-logo="" group-title="India",Bon Voyage
+https://jmp2.uk/sam-IN2400004WL.m3u8
+#EXTINF:-1 channel-id="IN800015P4" tvg-id="IN800015P4" tvg-chno="1215" tvg-name="Boxing TV" tvg-logo="" group-title="India",Boxing TV
+https://jmp2.uk/sam-IN800015P4.m3u8
 #EXTINF:-1 channel-id="INBD1300007ST" tvg-id="INBD1300007ST" tvg-chno="1032" tvg-name="CNBC AWAAZ" tvg-logo="" group-title="India",CNBC AWAAZ
 https://jmp2.uk/sam-INBD1300007ST.m3u8
 #EXTINF:-1 channel-id="INBD2500015H5" tvg-id="INBD2500015H5" tvg-chno="1074" tvg-name="CNBC Bajar" tvg-logo="" group-title="India",CNBC Bajar
@@ -65,6 +67,8 @@ https://jmp2.uk/sam-INBD4700006JD.m3u8
 https://jmp2.uk/sam-IN46000105Q.m3u8
 #EXTINF:-1 channel-id="IN1300001NN" tvg-id="IN1300001NN" tvg-chno="1211" tvg-name="Cricket Gold" tvg-logo="" group-title="India",Cricket Gold
 https://jmp2.uk/sam-IN1300001NN.m3u8
+#EXTINF:-1 channel-id="IN24000030L" tvg-id="IN24000030L" tvg-chno="1130" tvg-name="Crime Scene TV" tvg-logo="" group-title="India",Crime Scene TV
+https://jmp2.uk/sam-IN24000030L.m3u8
 #EXTINF:-1 channel-id="IN2600015OO" tvg-id="IN2600015OO" tvg-chno="1116" tvg-name="Crime Tak" tvg-logo="" group-title="India",Crime Tak
 https://jmp2.uk/sam-IN2600015OO.m3u8
 #EXTINF:-1 channel-id="INBC150001539" tvg-id="INBC150001539" tvg-chno="1321" tvg-name="Dabangg" tvg-logo="" group-title="India",Dabangg
@@ -73,10 +77,18 @@ https://jmp2.uk/sam-INBC150001539.m3u8
 https://jmp2.uk/sam-INBD13000053R.m3u8
 #EXTINF:-1 channel-id="IN1600002IQ" tvg-id="IN1600002IQ" tvg-chno="1413" tvg-name="Divya Bhajan" tvg-logo="" group-title="India",Divya Bhajan
 https://jmp2.uk/sam-IN1600002IQ.m3u8
-#EXTINF:-1 channel-id="IN3900002KB" tvg-id="IN3900002KB" tvg-chno="1127" tvg-name="E24" tvg-logo="" group-title="India",E24
+#EXTINF:-1 channel-id="IN3900002KB" tvg-id="IN3900002KB" tvg-chno="1122" tvg-name="E24" tvg-logo="" group-title="India",E24
 https://jmp2.uk/sam-IN3900002KB.m3u8
 #EXTINF:-1 channel-id="IN17000109O" tvg-id="IN17000109O" tvg-chno="1165" tvg-name="Epic" tvg-logo="" group-title="India",Epic
 https://jmp2.uk/sam-IN17000109O.m3u8
+#EXTINF:-1 channel-id="IN4900003U3" tvg-id="IN4900003U3" tvg-chno="1003" tvg-name="ETV Comedy" tvg-logo="" group-title="India",ETV Comedy
+https://jmp2.uk/sam-IN4900003U3.m3u8
+#EXTINF:-1 channel-id="IN4900004LP" tvg-id="IN4900004LP" tvg-chno="1128" tvg-name="ETV Josh" tvg-logo="" group-title="India",ETV Josh
+https://jmp2.uk/sam-IN4900004LP.m3u8
+#EXTINF:-1 channel-id="IN4900002RV" tvg-id="IN4900002RV" tvg-chno="1456" tvg-name="ETV Music" tvg-logo="" group-title="India",ETV Music
+https://jmp2.uk/sam-IN4900002RV.m3u8
+#EXTINF:-1 channel-id="IN4900001AQ" tvg-id="IN4900001AQ" tvg-chno="1095" tvg-name="ETV News" tvg-logo="" group-title="India",ETV News
+https://jmp2.uk/sam-IN4900001AQ.m3u8
 #EXTINF:-1 channel-id="INBA5100030AO" tvg-id="INBA5100030AO" tvg-chno="1129" tvg-name="FailArmy" tvg-logo="" group-title="India",FailArmy
 https://jmp2.uk/sam-INBA5100030AO.m3u8
 #EXTINF:-1 channel-id="INBA51000038B" tvg-id="INBA51000038B" tvg-chno="1367" tvg-name="Fashion TV" tvg-logo="" group-title="India",Fashion TV
@@ -91,6 +103,8 @@ https://jmp2.uk/sam-IN460000313.m3u8
 https://jmp2.uk/sam-IN3000003QJ.m3u8
 #EXTINF:-1 channel-id="IN2600013B3" tvg-id="IN2600013B3" tvg-chno="1113" tvg-name="Fully Faltoo" tvg-logo="" group-title="India",Fully Faltoo
 https://jmp2.uk/sam-IN2600013B3.m3u8
+#EXTINF:-1 channel-id="IN2400002A3" tvg-id="IN2400002A3" tvg-chno="1180" tvg-name="Go Wild" tvg-logo="" group-title="India",Go Wild
+https://jmp2.uk/sam-IN2400002A3.m3u8
 #EXTINF:-1 channel-id="IN17000129W" tvg-id="IN17000129W" tvg-chno="1029" tvg-name="Good News Today" tvg-logo="" group-title="India",Good News Today
 https://jmp2.uk/sam-IN17000129W.m3u8
 #EXTINF:-1 channel-id="INBA5100025YE" tvg-id="INBA5100025YE" tvg-chno="1389" tvg-name="GoUSA TV" tvg-logo="" group-title="India",GoUSA TV
@@ -143,14 +157,18 @@ https://jmp2.uk/sam-IN1600011DE.m3u8
 https://jmp2.uk/sam-IN4600008T4.m3u8
 #EXTINF:-1 channel-id="INBC4300008IH" tvg-id="INBC4300008IH" tvg-chno="1114" tvg-name="Korean TV" tvg-logo="" group-title="India",Korean TV
 https://jmp2.uk/sam-INBC4300008IH.m3u8
+#EXTINF:-1 channel-id="IN2400001L0" tvg-id="IN2400001L0" tvg-chno="1383" tvg-name="Life+Style" tvg-logo="" group-title="India",Life+Style
+https://jmp2.uk/sam-IN2400001L0.m3u8
 #EXTINF:-1 channel-id="INBC1500014OM" tvg-id="INBC1500014OM" tvg-chno="1441" tvg-name="Maiboli" tvg-logo="" group-title="India",Maiboli
 https://jmp2.uk/sam-INBC1500014OM.m3u8
-#EXTINF:-1 channel-id="IN1700003HF" tvg-id="IN1700003HF" tvg-chno="1003" tvg-name="Mastiii" tvg-logo="" group-title="India",Mastiii
+#EXTINF:-1 channel-id="IN1700003HF" tvg-id="IN1700003HF" tvg-chno="1433" tvg-name="Mastiii" tvg-logo="" group-title="India",Mastiii
 https://jmp2.uk/sam-IN1700003HF.m3u8
 #EXTINF:-1 channel-id="INBD4700014DU" tvg-id="INBD4700014DU" tvg-chno="1221" tvg-name="MAVTV Motorsports" tvg-logo="" group-title="India",MAVTV Motorsports
 https://jmp2.uk/sam-INBD4700014DU.m3u8
 #EXTINF:-1 channel-id="INBA4900030PY" tvg-id="INBA4900030PY" tvg-chno="1227" tvg-name="Motorvision.TV" tvg-logo="" group-title="India",Motorvision.TV
 https://jmp2.uk/sam-INBA4900030PY.m3u8
+#EXTINF:-1 channel-id="IN3000010V5" tvg-id="IN3000010V5" tvg-chno="1004" tvg-name="Mr. Bean" tvg-logo="" group-title="India",Mr. Bean
+https://jmp2.uk/sam-IN3000010V5.m3u8
 #EXTINF:-1 channel-id="INBD4700015M0" tvg-id="INBD4700015M0" tvg-chno="1438" tvg-name="Music India" tvg-logo="" group-title="India",Music India
 https://jmp2.uk/sam-INBD4700015M0.m3u8
 #EXTINF:-1 channel-id="IN1700011V7" tvg-id="IN1700011V7" tvg-chno="1115" tvg-name="Nazara" tvg-logo="" group-title="India",Nazara
@@ -231,6 +249,8 @@ https://jmp2.uk/sam-INBD4700016S7.m3u8
 https://jmp2.uk/sam-IN4900008ZP.m3u8
 #EXTINF:-1 channel-id="IN3800008CX" tvg-id="IN3800008CX" tvg-chno="1001" tvg-name="South Station" tvg-logo="" group-title="India",South Station
 https://jmp2.uk/sam-IN3800008CX.m3u8
+#EXTINF:-1 channel-id="IN24000052F" tvg-id="IN24000052F" tvg-chno="1124" tvg-name="Star Central" tvg-logo="" group-title="India",Star Central
+https://jmp2.uk/sam-IN24000052F.m3u8
 #EXTINF:-1 channel-id="IN2600011UH" tvg-id="IN2600011UH" tvg-chno="1432" tvg-name="Superhit Beats" tvg-logo="" group-title="India",Superhit Beats
 https://jmp2.uk/sam-IN2600011UH.m3u8
 #EXTINF:-1 channel-id="INBA490001909" tvg-id="INBA490001909" tvg-chno="1371" tvg-name="Tastemade" tvg-logo="" group-title="India",Tastemade
